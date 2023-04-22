@@ -1,4 +1,4 @@
-# # Title Problem Set 2: Decipher Game Theory (https://www.nature.com/articles/s41562-021-01152-2)
+# # Title Problem Set 2: Decipher Game Theory 
 ## Project information
 - **Author**: Wanlin Deng, Political Economy/Econmics, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -45,9 +45,10 @@ In Google Colab, the project will introduce one normal form matrix game, the Cou
 
 ### Spotlight
 
-After a long development period, game theory has a relatively complete theoretical system, especially the theoretical framework based on Nash equilibrium. However, the lack of interdisciplinary integration makes applying these theories to reality complex. 
+After a long development period, game theory has a relatively complete theoretical system, especially the theoretical framework based on Nash equilibrium. However, the lack of interdisciplinary integration makes applying these theories to reality complex. For example, as shown in the project：
 
-For example, as shown in the project, the Nash Equilibrium in the Cournot Duopoly game indicates that both firms will choose to have a low output regardless of the other’s choices. But based on life experience, homogenous firms tend to produce more rather than less, and surpluses occur much more often than shortages. What’s more, in the centipede game, the result of SPNE is that players 1 and 2 never cooperate, and the game ends in the first round, and both player 1 and player 2 lose all potential benefits. This result aligns with the theory, but reality often doesn’t work like this. No matter in the class, when playing the Centipede game or other similar scenarios in real life, players are likelier to cooperate, regardless of breaking in the middle or collaborating until the last round. Moreover, the choices made by the same player may differ according to the time or the place. 
+* The Nash Equilibrium in the Cournot Duopoly game indicates that both firms will choose to have a low output regardless of the other’s choices. But based on life experience, homogenous firms tend to produce more rather than less, and surpluses occur much more often than shortages. 
+* In the centipede game, the result of SPNE is that players 1 and 2 never cooperate, and the game ends in the first round, and both player 1 and player 2 lose all potential benefits. This result aligns with the theory, but reality often doesn’t work like this. No matter in the class, when playing the Centipede game or other similar scenarios in real life, players are likelier to cooperate, regardless of breaking in the middle or collaborating until the last round. Moreover, the choices made by the same player may differ according to the time or the place. 
 
 In other words, to predict the games in real life, people must consider the dynamics of more complex factors (e.g., psychology, society, and the environment, etc.) Thus, this project points out the shortcomings of game theory and inspires people to consider the impact of various complex factors further comprehensively on real-world games.
 
