@@ -1,4 +1,4 @@
-# # Title Problem Set 2: Decipher Game Theory 
+# # Problem Set 2: Decipher Game Theory 
 ## Project information
 - **Author**: Wanlin Deng, Political Economy/Econmics, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
