@@ -2,16 +2,14 @@
 ## Project information
 - **Author**: Wanlin Deng, Political Economy/Econmics, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set No.2 or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Problem Set No.2 for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
-- **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+- **Problem set Summary**: 
+  - Project overview. The flow and the content of the projecet will be introduced in the following readme.file.
+  - Game theory overview. This project will go through some significant concepts in game theory. The document is uploaed as Overleaf.zip file in the code folder.
+  - Game simulattion. This project will simulate two typical games and provide brief elaboration. Code in the Google Colab is uploaded in the code folder.
+
   
    
 Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
@@ -19,10 +17,8 @@ Note: please insert the screenshot of the answers to your research question by C
 ## Table of Contents
 
 - Structure
-- Spot
+- Spotlight
 - More about Author
-
-
 
 
 ### Structure
@@ -53,13 +49,6 @@ My name is Wanlin Deng, and you can also call me Iris. I’m from the class of 2
 
 Nice to meet you guys here and look forward to our future cooperation!
 
-### More about the Author
-- headshot
-- self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
 
 ### References
 
