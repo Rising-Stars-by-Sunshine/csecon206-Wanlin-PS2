@@ -35,6 +35,14 @@ Note: please insert the screenshot of the answers to your research question by C
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
 
+### Structure
+
+The project can be divided into two parts: Overleaf and Google Colab.
+In Overleaf, this project will review the essential concepts of game theory. It will first go through the significant milestones of game theory by citing the original publication. Then, it will provide some definitions, theorems, and proof of Bayesian Nash Equilibrium. Finally, it will list a game theory glossy table to show some critical terminologies of game theory. 
+
+
+In Google Colab, the project will introduce one normal form matrix game, the Cournot Duopoly game, and one extensive form game, the Centipede Game. And it will solve their equilibrium separately using Nashpy and game theory explorer. Some brief elaborations will be provided.
+
 
 ### Spotlight
 - Posters
