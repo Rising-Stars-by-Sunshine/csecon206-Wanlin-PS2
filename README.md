@@ -53,13 +53,15 @@ After a long development period, game theory has a relatively complete theoretic
 In other words, to predict the games in real life, people must consider the dynamics of more complex factors (e.g., psychology, society, and the environment, etc.) Thus, this project points out the shortcomings of game theory and inspires people to consider the impact of various complex factors further comprehensively on real-world games.
 
 
-### Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+
+### More about the Author
+* Self-Intro 
+
+<img src="生活照.png" width="100px">
+
+My name is Wanlin Deng, and you can also call me Iris. I’m from the class of 2025 and my major is political Economy with a track in economics. I’m interested in the interdisciplinary field of computational economics. Now, I’m working on utilizing all the math, econ and coding knowledge to study economics in a more critical way, and hope to become a competitive person who possesses a truly interdisciplinary capability. <br>
+
+Nice to meet you guys here and look forward to our future cooperation!
 
 ### More about the Author
 - headshot
