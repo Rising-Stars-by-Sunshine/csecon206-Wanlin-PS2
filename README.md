@@ -8,7 +8,7 @@
 - **Problem set Summary**: 
   - Project overview. The flow and the content of the projecet will be introduced in the following readme.file.
   - Game theory overview. This project will go through some significant concepts in game theory. The document is uploaed as Overleaf.zip file in the code folder.
-  - Game simulattion. This project will simulate two typical games and provide brief elaboration. Code in the Google Colab is uploaded in the code folder.
+  - Game simulation. This project will simulate two typical games and provide brief elaboration. Code in the Google Colab is uploaded in the code folder.
 
   
    
