@@ -7,7 +7,7 @@
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
 - **Problem set Summary**: 
   - Project overview. The flow and the content of the projecet will be introduced in the following readme.file.
-  - Game theory overview. This project will go through some significant concepts in game theory. The document is uploaed as Overleaf.zip file in the code folder.
+  - Game theory overview. This project will go through some significant concepts in game theory. The Overleaf PDF is uploaded as CSECON206_ProblemSet2_Spring2023_Wanlin.pdf to the spotlight file. The document code is uploaed as CSECON206_ProblemSet2_Spring2023_Wanlin.zip file in the code folder.
   - Game simulation. This project will simulate two typical games and provide brief elaboration. Code in the Google Colab is uploaded in the code folder.
 
   
